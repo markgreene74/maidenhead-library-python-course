@@ -1,0 +1,13 @@
+#event example
+---
+ID: cce26cf8-76fd-4beb-95c4-cba0506829e7
+  name: Maidenhead music festival
+  labels: 
+    - food
+  location:
+    address: Some street
+    town: Maidenhead
+    postcode: SL6
+  comment: nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum
+  date: 16-07-2026
+  time: 11:00

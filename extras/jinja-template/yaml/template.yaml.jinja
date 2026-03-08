@@ -1,0 +1,15 @@
+#events
+---
+{% for element in elements %}
+ID: {{element.id}}
+  name: {{element.name}}
+  labels:
+    - {{element.label}}
+  location:
+    address: {{element.address}}
+    town: {{element.town}}
+    postcode: {{element.postcode}}
+  comment: {{element.comment}}
+  date: {{element.date}}
+  time: {{element.time}}
+{% endfor %}
