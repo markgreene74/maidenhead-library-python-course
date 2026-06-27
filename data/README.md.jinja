@@ -22,11 +22,15 @@ The library will pause the course during summer, but I will be available for som
 ### Past dates
 
 <details><summary>(click to expand ...)</summary>
+
+
 |    Date    |    Time    |   Course    |
 |:----------:|:----------:|:-----------:|
 {% for item in past_dates -%}
 | {{item.date}} | {{item.time_start}}-{{item.time_end}} | {{item.course}}  |
 {% endfor %}
+
+
 </details>
 
 Last updated: {{ last_updated }}
