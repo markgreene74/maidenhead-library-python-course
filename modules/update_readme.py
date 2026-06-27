@@ -24,8 +24,9 @@ def read_csv(datafile: Path = DATAFILE) -> list[dict]:
 
 def write_readme(template_path: Path = TEMPLATE, readme_path: Path = README):
     course_dates = read_csv()
-    course_dates_future = [row for row in course_dates if row["date"] >= dt.now()]
-    course_dates_past = [row for row in course_dates if row["date"] < dt.now()]
+    today = dt.now().date()
+    course_dates_future = [row for row in course_dates if row["date"] >= today]
+    course_dates_past = [row for row in course_dates if row["date"] < today]
 
     with open(template_path) as f:
         readme_jinja = f.read()
