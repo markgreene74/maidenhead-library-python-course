@@ -16,7 +16,7 @@ def read_csv(datafile: Path = DATAFILE) -> list[dict]:
 
     # transform date from str into a native datetime
     for row in data:
-        row["date"] = dt.fromisoformat(row["date"])
+        row["date"] = dt.fromisoformat(row["date"]).date()
 
     data.sort(key=lambda x: (x["date"], x["time_start"]))
     return data
