@@ -1,0 +1,32 @@
+# maidenhead-library-python-course
+Materials for the Maidenhead Library Python course
+
+## Binder
+Click on the button to run the notebooks in Binder.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markgreene74/maidenhead-library-python-course/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
+
+## Course
+
+### Next dates
+
+|    Date    |    Time    |   Course    |
+|:----------:|:----------:|:-----------:|
+{% for item in future_dates -%}
+| {{item.date}} | {{item.time_start}}-{{item.time_end}} | {{item.course}}  |
+{% endfor %}
+
+#### Update 2026-06-27
+The library will pause the course during summer, but I will be available for some ad-hoc sessions (bring your own device, work on individual projects).
+
+### Past dates
+
+<details><summary>(click to expand ...)</summary>
+|    Date    |    Time    |   Course    |
+|:----------:|:----------:|:-----------:|
+{% for item in past_dates -%}
+| {{item.date}} | {{item.time_start}}-{{item.time_end}} | {{item.course}}  |
+{% endfor %}
+</details>
+
+Last updated: {{ last_updated }}
