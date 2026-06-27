@@ -22,6 +22,8 @@ The library will pause the course during summer, but I will be available for som
 ### Past dates
 
 <details><summary>(click to expand ...)</summary>
+
+
 |    Date    |    Time    |   Course    |
 |:----------:|:----------:|:-----------:|
 | 2026-02-28 00:00:00 | 11:00-12:00 | beginner  |
@@ -44,6 +46,8 @@ The library will pause the course during summer, but I will be available for som
 | 2026-06-20 00:00:00 | 11:00-12:00 | mixed-levels  |
 | 2026-06-27 00:00:00 | 11:00-12:00 | mixed-levels  |
 
+
+
 </details>
 
-Last updated: 2026-06-27T14:56:40.416193
+Last updated: 2026-06-27T14:59:31.586846
