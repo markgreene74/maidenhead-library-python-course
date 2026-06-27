@@ -17,6 +17,7 @@ Click on the button to run the notebooks in Binder.
 | 2026-07-11 | 11:00-12:00 | ad-hoc  |
 
 
+
 #### Update 2026-06-27
 The library will pause the course during summer, but I will be available for some ad-hoc sessions (bring your own device, work on individual projects).
 
@@ -47,6 +48,7 @@ The library will pause the course during summer, but I will be available for som
 | 2026-06-20 | 11:00-12:00 | mixed-levels  |
 
 
+
 </details>
 
-Last updated: 2026-06-27T15:16:15.496457
+Last updated: 2026-06-27T16:42:58.405764
