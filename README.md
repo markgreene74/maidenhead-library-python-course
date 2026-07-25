@@ -52,4 +52,4 @@ The library will pause the course during summer, but I will be available for som
 
 </details>
 
-Last updated: 2026-07-24T22:52:51.580107
+Last updated: 2026-07-25T08:59:04.655576
