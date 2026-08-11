@@ -1,0 +1,8 @@
+colour: White
+class: Wizard
+name: Test character 01
+weapon: staff
+defence: shield spell
+armour: no armour
+notes: This is a test note for character 01.
+# and this is a comment
