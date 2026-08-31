@@ -12,7 +12,11 @@ Click on the button to run the notebooks in Binder.
 
 |    Date    |    Time    |   Course    |
 |:----------:|:----------:|:-----------:|
-| nil | nil | nil |
+| 2026-09-05 | 11:00-12:00 | ad-hoc  |
+| 2026-09-12 | 11:00-12:00 | ad-hoc  |
+| 2026-09-19 | 11:00-12:00 | ad-hoc  |
+| 2026-09-26 | 11:00-12:00 | ad-hoc  |
+
 
 
 #### Update 2026-06-27
@@ -57,4 +61,4 @@ The library will pause the course during summer, but I will be available for som
 
 </details>
 
-Last updated: 2026-08-30T12:34:33.398045
+Last updated: 2026-08-31T14:09:28.568360
